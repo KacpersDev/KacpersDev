@@ -1,7 +1,10 @@
 - 👋 Hi, I’m @KacpersDev
 - 👀 I’m interested in Developing.
-- 🌱 I’m currently learning Java.
+- 🌱 I’m currently learning Python.
 - 📫 You can contact me on Discord - KacperM#4188
+
+- 📝 Certifications:
+  CS50 Python.
 
 <!---
 KacpersDev/KacpersDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
