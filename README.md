@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KacpersDev
-- 👀 I’m interested in Developing.
-- 🌱 I’m currently learning Python.
+- 👀 I’m interested in Website Developer.
+- 🌱 I’m currently learning HTML & CSS & JS.
 - 📫 You can contact me on Discord - KacperM#4188
 
 - 📝 Certifications:
