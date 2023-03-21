@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kacper</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Web+Designer;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Web+Designer;Front-+End+Developer)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kacpersdev&label=Profile%20views&color=0e75b6&style=flat" alt="kacpersdev" /> </p>
 
