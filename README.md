@@ -2,8 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Web+Designer;Front-End+Developer)](https://git.io/typing-svg)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kacpersdev&label=Profile%20views&color=0e75b6&style=flat" alt="kacpersdev" /> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://discord.gg/KacperM#4188" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="KacperM#4188" height="30" width="40" /></a>
