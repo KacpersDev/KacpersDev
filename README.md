@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kacper</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Web+Designer;Front-End+Developer)](https://git.io/typing-svg)
+I am [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Web+Designer;Front-End+Developer)](https://git.io/typing-svg)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
