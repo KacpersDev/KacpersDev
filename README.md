@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kacper</h1>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Web+Designer;Front-End+Developer;Java+Developer)](https://git.io/typing-svg)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kacpersdev&label=Profile%20views&color=0e75b6&style=flat" alt="kacpersdev" /> </p>
 
 <h3 align="left">Connect with me:</h3>
