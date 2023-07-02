@@ -11,6 +11,8 @@
 ### Glad to see you here!  
 Hey, I am Kacper a 17 years old high school student, who is passioned about programming.
 
+
+
 Looking to be working on projects as a volunteer, feel free to contact me 
 
 Email - kacpermik2522@gmail.com
