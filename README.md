@@ -50,6 +50,7 @@ Discord - KacperM#4188
 
 ## Github Stats  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KacpersDev&hide_border=true&layout=compact" align="left" style="width: 100%" />
+
 <br>
 
 
@@ -61,7 +62,4 @@ Discord - KacperM#4188
 <br/>  
 
 
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<br>
