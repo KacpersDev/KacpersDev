@@ -19,26 +19,7 @@ Discord - KacperM#4188
   
   
 
-<br/>  
-
-
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
-- 🌱 I’m currently learning Solidity  
-  
-
-- ⚡ Fun fact: I prefer coding at night  
-
-
-</td><td valign="top" width="50%">
-
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-
-
-</td></tr></table>  
+<br/> 
 
 <br/>  
 
