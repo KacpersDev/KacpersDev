@@ -50,8 +50,8 @@ Discord - KacperM#4188
 
 ## Github Stats  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KacpersDev&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<br>
 
-  
 
 <br/>  
 
