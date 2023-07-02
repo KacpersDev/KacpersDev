@@ -54,12 +54,4 @@ Discord - KacperM#4188
 <br>
 
 
-<br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=KacpersDev&&style=flat-square)  
-  
-
-<br/>  
-
-
 <br>
