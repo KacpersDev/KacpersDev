@@ -1,6 +1,8 @@
-# HI I'm Kacper.
+# HI.
 
-### ![](https://komarev.com/ghpvc/?username=KacpersDev)
+```java
+String string;
+```
 
 # My Knowledge
 
