@@ -1,7 +1,16 @@
 # HI.
 
 ```java
-String string;
+System.out.println("Who are you?");
+Scanner scanner = new Scanner(System.in);
+String result = scanner.nextLine();
+System.out.println("HI " + result);
+```
+```html
+java README
+
+Who are you?
+> I'm Kacper. 18 Years old high school student interested in Java & NoSQL databases
 ```
 
 # My Knowledge
