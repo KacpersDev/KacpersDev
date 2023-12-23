@@ -9,3 +9,7 @@
 # IDE's
 
 [![My Skills](https://skillicons.dev/icons?i=idea,vscode)](https://skillicons.dev)
+
+# Other
+
+[![My Skills](https://skillicons.dev/icons?i=next,react,figma)](https://skillicons.dev)
