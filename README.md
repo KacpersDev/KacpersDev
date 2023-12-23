@@ -8,4 +8,4 @@
 
 # IDE's
 
-[![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=idea,vscode)](https://skillicons.dev)
