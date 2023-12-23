@@ -4,4 +4,4 @@
 
 # Databases
 
-[![My Skills](https://skillicons.dev/icons?i=mongo,sql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongo,mysql)](https://skillicons.dev)
