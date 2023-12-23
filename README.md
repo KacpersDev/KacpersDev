@@ -1,1 +1,3 @@
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+# Programming Languages
+
+[![My Skills](https://skillicons.dev/icons?i=java,js,ts)](https://skillicons.dev)
