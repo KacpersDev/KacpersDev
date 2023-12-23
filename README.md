@@ -5,3 +5,7 @@
 # Databases
 
 [![My Skills](https://skillicons.dev/icons?i=mongo,mysql)](https://skillicons.dev)
+
+# IDE's
+
+[![My Skills](https://skillicons.dev/icons?i=intellij)](https://skillicons.dev)
