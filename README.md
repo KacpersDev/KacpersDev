@@ -12,4 +12,4 @@
 
 # Other
 
-[![My Skills](https://skillicons.dev/icons?i=next,react,css,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=next,react,html,css,figma)](https://skillicons.dev)
