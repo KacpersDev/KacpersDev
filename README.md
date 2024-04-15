@@ -21,7 +21,7 @@ Who are you?
 
 ## Databases
 
-[![My Skills](https://skillicons.dev/icons?i=mongo,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongo,mysql,redis)](https://skillicons.dev)
 
 ## IDE's
 
