@@ -23,6 +23,10 @@ Who are you?
 
 [![My Skills](https://skillicons.dev/icons?i=mongo,mysql,redis)](https://skillicons.dev)
 
+## ORM
+
+[![My Skills](https://skillicons.dev/icons?i=prisma)](https://skillicons.dev)
+
 ## IDE's
 
 [![My Skills](https://skillicons.dev/icons?i=idea,vscode)](https://skillicons.dev)
