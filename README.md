@@ -15,22 +15,22 @@ Who are you?
 
 # My Knowledge
 
-## Programming Languages
+### Programming Languages
 
 [![My Skills](https://skillicons.dev/icons?i=java,js,ts)](https://skillicons.dev)
 
-## Databases
+### Databases
 
 [![My Skills](https://skillicons.dev/icons?i=mongo,mysql,redis)](https://skillicons.dev)
 
-## ORM
+### ORM
 
 [![My Skills](https://skillicons.dev/icons?i=prisma)](https://skillicons.dev)
 
-## IDE's
+### IDE's
 
 [![My Skills](https://skillicons.dev/icons?i=idea,vscode)](https://skillicons.dev)
 
-## Other
+### Other
 
 [![My Skills](https://skillicons.dev/icons?i=next,react,html,css,figma)](https://skillicons.dev)
