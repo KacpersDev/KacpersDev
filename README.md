@@ -1,1 +1,1 @@
-
+Hi! I'm Kacper 19 years old high school student with passion for coding. I have started my jounery with coding 5 years ago. I started with BukkitAPI later on moved to plain java. About 3 years later I started to learn a Fullstack Development using NextJS and a Discord bot developer using JDA.
