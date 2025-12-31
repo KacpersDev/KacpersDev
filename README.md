@@ -1,18 +1,18 @@
 # 👋 Hi, I'm a Minecraft & Web Developer
 
-I'm a **Minecraft and Web Developer** with **5+ years of experience** building scalable systems, custom gameplay features, and modern web applications. I enjoy turning ideas into reliable, performant solutions—whether that’s on a Minecraft server or the web.
+I'm a **Minecraft and Web Developer** with **5+ years of experience** building scalable systems, custom gameplay features, and modern web applications. I enjoy turning ideas into reliable, performant solutions whether that’s on a Minecraft server or the web.
 
 ---
 
-## 🧠 About Me
-- 🎮 Minecraft developer with experience in plugins, server-side logic, and performance optimization  
-- 🌐 Web developer focused on clean, maintainable, and scalable applications  
-- 🗄️ Strong background working with databases and caching systems  
-- 🚀 Always learning and improving my craft  
+## About Me
+- Minecraft developer with experience in plugins, server-side logic, and performance optimization  
+- Web developer focused on clean, maintainable, and scalable applications  
+- Strong background working with databases and caching systems  
+- Always learning and improving my craft  
 
 ---
 
-## 🛠️ Skills & Technologies
+## Skills & Technologies
 
 ### Minecraft Development
 - Custom plugins & server-side features  
@@ -31,17 +31,7 @@ I'm a **Minecraft and Web Developer** with **5+ years of experience** building s
 
 ---
 
-## 📈 Experience
+## Experience
 - **5+ years** of hands-on development experience  
 - Built and maintained production systems  
 - Worked on performance-critical and data-driven projects  
-
----
-
-## 📫 Get in Touch
-- GitHub: **@your-username**
-- Open to collaborations, freelance work, and interesting projects
-
----
-
-⭐ Feel free to check out my repositories and projects!
