@@ -1,16 +1,47 @@
-## Hi there 👋
+# 👋 Hi, I'm a Minecraft & Web Developer
 
-<!--
-**KacpersDev/KacpersDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Minecraft and Web Developer** with **5+ years of experience** building scalable systems, custom gameplay features, and modern web applications. I enjoy turning ideas into reliable, performant solutions—whether that’s on a Minecraft server or the web.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+- 🎮 Minecraft developer with experience in plugins, server-side logic, and performance optimization  
+- 🌐 Web developer focused on clean, maintainable, and scalable applications  
+- 🗄️ Strong background working with databases and caching systems  
+- 🚀 Always learning and improving my craft  
+
+---
+
+## 🛠️ Skills & Technologies
+
+### Minecraft Development
+- Custom plugins & server-side features  
+- Gameplay mechanics & optimization  
+- Long-term server maintenance  
+
+### Web Development
+- Backend & full-stack web development  
+- REST APIs & server-side architecture  
+- Authentication & data handling  
+
+### Databases & Storage
+- **MongoDB**
+- **MySQL**
+- **Redis**
+
+---
+
+## 📈 Experience
+- **5+ years** of hands-on development experience  
+- Built and maintained production systems  
+- Worked on performance-critical and data-driven projects  
+
+---
+
+## 📫 Get in Touch
+- GitHub: **@your-username**
+- Open to collaborations, freelance work, and interesting projects
+
+---
+
+⭐ Feel free to check out my repositories and projects!
